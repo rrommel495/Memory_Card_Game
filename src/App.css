@@ -1,0 +1,19 @@
+body{ 
+    height: 100vh;
+    background-image: linear-gradient(to left top, #6bc4d1, #58bed9, #4ab8e1, #47b0e8, #51a7ec, #50a0ef, #5598f0, #5e8ff0, #5487f3, #4b80f5, #4378f8, #3d6ff9);
+}
+
+img {
+    width: 150px;
+    height: 204px;
+    
+}
+
+.card-grid{
+    margin-top: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    position: center;
+
+}
